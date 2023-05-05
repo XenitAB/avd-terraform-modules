@@ -6,3 +6,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+### Added
+
+- [#1](https://github.com/XenitAB/avd-terraform-modules/pull/1) Initial repo setup.

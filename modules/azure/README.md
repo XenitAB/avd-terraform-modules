@@ -4,4 +4,4 @@ This directory contains all the Azure Terraform modules.
 
 ## Modules
 
-- [`linux-vm`](linux-vm/README.md)
+- [`avd`](avd/README.md)
